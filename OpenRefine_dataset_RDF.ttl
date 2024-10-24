@@ -1,0 +1,2435 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix Lap_ont: <http://w3id.org/FAIR-course-UT/2024-2025/3/ont#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#0> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "MacBook Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","128GB SSD","https://www.wikidata.org/entity/Q98611892";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "1.37" .
+_:node1iav78l91x1 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","2560x1600" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#0> Lap_ont:has_ _:node1iav78l91x1 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#0> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#1> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "Macbook Air";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","128GB Flash Storage","https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "1.34" .
+_:node1iav78l91x2 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1440x900" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#1> Lap_ont:has_ _:node1iav78l91x2 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#1> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#2> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "250 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x3 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#2> Lap_ont:has_ _:node1iav78l91x3 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#2> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#3> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "MacBook Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "16","512GB SSD","https://www.wikidata.org/entity/Q28402491";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "1.83" .
+_:node1iav78l91x4 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.4","2880x1800" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#3> Lap_ont:has_ _:node1iav78l91x4 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#3> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#4> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire 3";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x5 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#4> Lap_ont:has_ _:node1iav78l91x5 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#4> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#5> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "Macbook Air";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB Flash Storage","https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "1.34" .
+_:node1iav78l91x6 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1440x900" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#5> Lap_ont:has_ _:node1iav78l91x6 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#5> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#6> Lap_ont:weighs_ "1.3";
+Lap_ont:names_ "ZenBook UX430UN";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "16","512GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q825762";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864" .
+_:node1iav78l91x7 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#6> Lap_ont:has_ _:node1iav78l91x7 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#6> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#7> Lap_ont:has_ "https://www.wikidata.org/entity/Q98614745";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Swift 3";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.6" .
+_:node1iav78l91x8 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#7> Lap_ont:has_ _:node1iav78l91x8 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#7> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#8> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "250 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x9 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#8> Lap_ont:has_ _:node1iav78l91x9 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#8> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#9> Lap_ont:has_ "https://www.wikidata.org/entity/Q98617327";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "250 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x10 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#9> Lap_ont:has_ _:node1iav78l91x10 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#9> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#10> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "MacBook Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "16","256GB SSD","https://www.wikidata.org/entity/Q28402491";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "1.83" .
+_:node1iav78l91x11 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.4","2880x1800" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#10> Lap_ont:has_ _:node1iav78l91x11 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#10> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#11> Lap_ont:has_ "https://www.wikidata.org/entity/Q295089";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x12 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#11> Lap_ont:has_ _:node1iav78l91x12 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#11> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#12> Lap_ont:weighs_ "0.92";
+Lap_ont:has_ "8";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q98609804";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312" .
+_:node1iav78l91x13 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#12> Lap_ont:names_ "MacBook";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770" .
+_:node1iav78l91x13 Lap_ont:with_size_ "12","2304x1440" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#12> Lap_ont:has_ _:node1iav78l91x13 .
+<https://www.wikidata.org/entity/Q98611686> Lap_ont:defined_by_ "1.2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#12> Lap_ont:has_ <https://www.wikidata.org/entity/Q98611686> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#13> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "MacBook Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611892";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "1.37" .
+_:node1iav78l91x14 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","2560x1600" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#13> Lap_ont:has_ _:node1iav78l91x14 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#13> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#14> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x15 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#14> Lap_ont:has_ _:node1iav78l91x15 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#14> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#15> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "MacBook Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "16","512GB SSD","https://www.wikidata.org/entity/Q28402491";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "1.83" .
+_:node1iav78l91x16 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.4","2880x1800" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#15> Lap_ont:has_ _:node1iav78l91x16 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.9" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#15> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#16> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "IdeaPad 320-15IKB";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","1TB HDD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x17 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#16> Lap_ont:has_ _:node1iav78l91x17 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.4" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#16> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#17> Lap_ont:names_ "XPS 13";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","128GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:weighs_ "1.22";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873" .
+_:node1iav78l91x18 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#17> Lap_ont:has_ _:node1iav78l91x18 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#17> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#18> Lap_ont:has_ "32GB Flash Storage","https://www.wikidata.org/entity/Q98617382","2";
+Lap_ont:names_ "Vivobook E200HA";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q178470";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "0.98" .
+_:node1iav78l91x19 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "11.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#18> Lap_ont:has_ _:node1iav78l91x19 .
+<https://www.wikidata.org/entity/Q324536> Lap_ont:defined_by_ "1.44" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#18> Lap_ont:has_ <https://www.wikidata.org/entity/Q324536> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#19> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:names_ "Legion Y520-15IKBN";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_ "8","128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.5" .
+_:node1iav78l91x20 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#19> Lap_ont:has_ _:node1iav78l91x20 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#19> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#20> Lap_ont:has_ "500GB HDD";
+Lap_ont:names_ "255 G6";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:has_ "4","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x21 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#20> Lap_ont:has_ _:node1iav78l91x21 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "1.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#20> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#21> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5379";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.62" .
+_:node1iav78l91x22 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#21> Lap_ont:has_ _:node1iav78l91x22 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#21> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#22> Lap_ont:has_ "https://www.wikidata.org/entity/Q98611752";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "15-BS101nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.91" .
+_:node1iav78l91x23 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#22> Lap_ont:has_ _:node1iav78l91x23 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#22> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#23> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3567";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q98617327";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:weighs_ "2.3" .
+_:node1iav78l91x24 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#23> Lap_ont:has_ _:node1iav78l91x24 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#23> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#24> Lap_ont:has_ "8";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "MacBook Air";
+Lap_ont:has_ "128GB Flash Storage","https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_X_";
+Lap_ont:weighs_ "1.35" .
+_:node1iav78l91x25 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1440x900" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#24> Lap_ont:has_ _:node1iav78l91x25 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#24> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#25> Lap_ont:has_ "https://www.wikidata.org/entity/Q295089","256GB SSD";
+Lap_ont:names_ "Inspiron 5570";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x26 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#25> Lap_ont:has_ _:node1iav78l91x26 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#25> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#26> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Latitude 5590";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD +  256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.88" .
+_:node1iav78l91x27 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#26> Lap_ont:has_ _:node1iav78l91x27 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.9" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#26> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#27> Lap_ont:names_ "ProBook 470";
+Lap_ont:has_ "1TB HDD","8";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q16927918";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.5" .
+_:node1iav78l91x28 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#27> Lap_ont:has_ _:node1iav78l91x28 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#27> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#28> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q50413464";
+Lap_ont:names_ "LapBook";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","64GB Flash Storage","https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.89" .
+_:node1iav78l91x29 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#28> Lap_ont:has_ _:node1iav78l91x29 .
+<https://www.wikidata.org/entity/Q324536> Lap_ont:defined_by_ "1.44" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#28> Lap_ont:has_ <https://www.wikidata.org/entity/Q324536> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#29> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "E402WA-GA010T";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "2","32GB Flash Storage","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.65" .
+_:node1iav78l91x30 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#29> Lap_ont:has_ _:node1iav78l91x30 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "1.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#29> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#30> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "17-ak001nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_ "500GB HDD","https://www.wikidata.org/entity/Q295089";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:weighs_ "2.71" .
+_:node1iav78l91x31 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#30> Lap_ont:has_ _:node1iav78l91x31 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#30> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#31> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "16","512GB SSD";
+Lap_ont:weighs_ "1.2";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q98614745";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "XPS 13" .
+_:node1iav78l91x32 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","3200x1800" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#31> Lap_ont:has_ _:node1iav78l91x32 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#31> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#32> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:names_ "MacBook Air";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:has_ "8","256GB Flash Storage","https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_X_";
+Lap_ont:weighs_ "1.35" .
+_:node1iav78l91x33 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1440x900" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#32> Lap_ont:has_ _:node1iav78l91x33 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#32> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#33> Lap_ont:has_ "https://www.wikidata.org/entity/Q1665604";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "IdeaPad 120S-14IAP";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","64GB Flash Storage";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.44" .
+_:node1iav78l91x34 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#33> Lap_ont:has_ _:node1iav78l91x34 .
+<https://www.wikidata.org/entity/Q1665596> Lap_ont:defined_by_ "1.1" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#33> Lap_ont:has_ <https://www.wikidata.org/entity/Q1665596> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#34> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire 3";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q98611752","1TB HDD","4";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x35 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#34> Lap_ont:has_ _:node1iav78l91x35 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#34> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#35> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5770";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.8" .
+_:node1iav78l91x36 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#35> Lap_ont:has_ _:node1iav78l91x36 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#35> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#36> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "250 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x37 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#36> Lap_ont:has_ _:node1iav78l91x37 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#36> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#37> Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q16927918","8";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "ProBook 450";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x38 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#37> Lap_ont:has_ _:node1iav78l91x38 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#37> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#38> Lap_ont:has_ "https://www.wikidata.org/entity/Q98611752";
+Lap_ont:names_ "X540UA-DM186";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:has_ "1TB HDD","4";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+Lap_ont:weighs_ "2" .
+_:node1iav78l91x39 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#38> Lap_ont:has_ _:node1iav78l91x39 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#38> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#39> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","https://www.wikidata.org/entity/Q24033460","256GB SSD +  1TB HDD";
+Lap_ont:names_ "Inspiron 7577";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.65" .
+_:node1iav78l91x40 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#39> Lap_ont:has_ _:node1iav78l91x40 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#39> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#40> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "X542UQ-GO005";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","1TB HDD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+Lap_ont:weighs_ "2.3" .
+_:node1iav78l91x41 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#40> Lap_ont:has_ _:node1iav78l91x41 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#40> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#41> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire A515-51G";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x42 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#41> Lap_ont:has_ _:node1iav78l91x42 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#41> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#42> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 7773";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "12","1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.77" .
+_:node1iav78l91x43 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#42> Lap_ont:has_ _:node1iav78l91x43 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#42> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#43> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:has_ "8";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:names_ "MacBook Pro";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_ "256GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "1.37" .
+_:node1iav78l91x44 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","2560x1600" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#43> Lap_ont:has_ _:node1iav78l91x44 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#43> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#44> Lap_ont:has_ "4";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "IdeaPad 320-15ISK";
+Lap_ont:has_ "128GB SSD","https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x45 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#44> Lap_ont:has_ _:node1iav78l91x45 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#44> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#45> Lap_ont:has_ <https://www.wikidata.org/entity/Q28845729>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "3.2" .
+_:node1iav78l91x46 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#45> Lap_ont:has_ _:node1iav78l91x46;
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "Rog Strix";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "8","256GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q29652955" .
+<https://www.wikidata.org/entity/Q28845729> Lap_ont:defined_by_ "3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#46> Lap_ont:has_ "https://www.wikidata.org/entity/Q295089";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.3" .
+_:node1iav78l91x47 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#46> Lap_ont:has_ _:node1iav78l91x47 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#46> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#47> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "X751NV-TY001T";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.8" .
+_:node1iav78l91x48 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#47> Lap_ont:has_ _:node1iav78l91x48 .
+<https://www.wikidata.org/entity/Q214314> Lap_ont:defined_by_ "1.1" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#47> Lap_ont:has_ <https://www.wikidata.org/entity/Q214314> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#48> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "Yoga Book";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "4","64GB Flash Storage","https://www.wikidata.org/entity/Q98617382";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Android_";
+Lap_ont:weighs_ "0.69" .
+_:node1iav78l91x49 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "10.1","1920x1200" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#48> Lap_ont:has_ _:node1iav78l91x49 .
+<https://www.wikidata.org/entity/Q324536> Lap_ont:defined_by_ "1.44" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#48> Lap_ont:has_ <https://www.wikidata.org/entity/Q324536> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#49> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire A515-51G";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x50 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#49> Lap_ont:has_ _:node1iav78l91x50 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#49> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#50> Lap_ont:names_ "255 G6";
+Lap_ont:has_ "4";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x51 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#50> Lap_ont:has_ _:node1iav78l91x51 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#50> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#51> Lap_ont:has_ "8";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "ProBook 430";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q98614745","512GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.49" .
+_:node1iav78l91x52 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#51> Lap_ont:has_ _:node1iav78l91x52 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#51> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#52> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire 3";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.4" .
+_:node1iav78l91x53 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#52> Lap_ont:has_ _:node1iav78l91x53 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.4" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#52> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#53> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:names_ "Inspiron 3576";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.13" .
+_:node1iav78l91x54 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#53> Lap_ont:has_ _:node1iav78l91x54 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#53> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#54> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "15-bs002nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","128GB SSD","https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.91" .
+_:node1iav78l91x55 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#54> Lap_ont:has_ _:node1iav78l91x55 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#54> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#55> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "VivoBook Max";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2" .
+_:node1iav78l91x56 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#55> Lap_ont:has_ _:node1iav78l91x56 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#55> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#56> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q502935";
+Lap_ont:names_ "GS73VR 7RG";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","256GB SSD +  2TB HDD","https://www.wikidata.org/entity/Q61782186";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.43" .
+_:node1iav78l91x57 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#56> Lap_ont:has_ _:node1iav78l91x57 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#56> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#57> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "X541UA-DM1897";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+Lap_ont:weighs_ "2" .
+_:node1iav78l91x58 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#57> Lap_ont:has_ _:node1iav78l91x58 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#57> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#58> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "Inspiron 5770";
+Lap_ont:has_ "16","256GB SSD +  2TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.8" .
+_:node1iav78l91x59 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#58> Lap_ont:has_ _:node1iav78l91x59 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#58> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#59> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Vostro 5471";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.7" .
+_:node1iav78l91x60 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#59> Lap_ont:has_ _:node1iav78l91x60 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#59> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#60> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "IdeaPad 520S-14IKB";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "1.7" .
+_:node1iav78l91x61 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#60> Lap_ont:has_ _:node1iav78l91x61 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#60> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#61> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "UX410UA-GV350T";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.4" .
+_:node1iav78l91x62 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#61> Lap_ont:has_ _:node1iav78l91x62 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#61> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#62> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "250 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x63 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#62> Lap_ont:has_ _:node1iav78l91x63 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#62> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#63> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "512GB SSD";
+Lap_ont:names_ "ZenBook Pro";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:has_ "16","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.8" .
+_:node1iav78l91x64 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#63> Lap_ont:has_ _:node1iav78l91x64 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#63> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#64> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "250 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x65 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#64> Lap_ont:has_ _:node1iav78l91x65 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#64> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#65> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4";
+Lap_ont:names_ "Stream 14-AX040wm";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:has_ "32GB SSD","https://www.wikidata.org/entity/Q98617382";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.44" .
+_:node1iav78l91x66 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#65> Lap_ont:has_ _:node1iav78l91x66 .
+<https://www.wikidata.org/entity/Q1665596> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#65> Lap_ont:has_ <https://www.wikidata.org/entity/Q1665596> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#66> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "V310-15ISK";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.9" .
+_:node1iav78l91x67 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#66> Lap_ont:has_ _:node1iav78l91x67 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#66> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#67> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "FX753VE-GC093";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "12","1TB HDD","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+Lap_ont:weighs_ "3" .
+_:node1iav78l91x68 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#67> Lap_ont:has_ _:node1iav78l91x68 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#67> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+_:node1iav78l91x69 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#68> Lap_ont:names_ "Surface Laptop";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_S_";
+Lap_ont:weighs_ "1.252";
+Lap_ont:has_ "4","128GB SSD","https://www.wikidata.org/entity/Q98611752";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q2283" .
+_:node1iav78l91x69 Lap_ont:with_size_ "13.5","2256x1504" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#68> Lap_ont:has_ _:node1iav78l91x69 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#68> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#69> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5370";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.4" .
+_:node1iav78l91x70 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#69> Lap_ont:has_ _:node1iav78l91x70 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#69> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#70> Lap_ont:names_ "Inspiron 5570";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:has_ "8","https://www.wikidata.org/entity/Q295089","256GB SSD";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x71 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#70> Lap_ont:has_ _:node1iav78l91x71 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#70> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#71> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q502935";
+Lap_ont:names_ "GL72M 7RDX";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "8","128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.7" .
+_:node1iav78l91x72 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#71> Lap_ont:has_ _:node1iav78l91x72 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#71> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#72> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire E5-475";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","1TB HDD","https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x73 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#72> Lap_ont:has_ _:node1iav78l91x73 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#72> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#73> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "FX503VD-E4022T";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "8","1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x74 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#73> Lap_ont:has_ _:node1iav78l91x74 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#73> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#74> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "IdeaPad 320-15IKBN";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","2TB HDD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x75 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#74> Lap_ont:has_ _:node1iav78l91x75 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#74> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+_:node1iav78l91x76 Lap_ont:with_size_ "1920x1080","15.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#75> Lap_ont:has_ "128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q98614745";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5570";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8" .
+_:node1iav78l91x76 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#75> Lap_ont:weighs_ "2.02";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_ _:node1iav78l91x76,<https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#76> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire A515-51G-32MX";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x77 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#76> Lap_ont:has_ _:node1iav78l91x77 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#76> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#77> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "ProBook 470";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_ "8","128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q16927918";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:weighs_ "2.5" .
+_:node1iav78l91x78 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#77> Lap_ont:has_ _:node1iav78l91x78 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#77> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#78> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD";
+Lap_ont:weighs_ "1.88";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Latitude 5590" .
+_:node1iav78l91x79 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#78> Lap_ont:has_ _:node1iav78l91x79 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#78> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#79> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q312";
+Lap_ont:names_ "MacBook";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","512GB SSD","https://www.wikidata.org/entity/Q98609804";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/macOS_";
+Lap_ont:weighs_ "0.92" .
+_:node1iav78l91x80 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "12","2304x1440" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#79> Lap_ont:has_ _:node1iav78l91x80 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#79> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#80> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821>,_:node1iav78l91x81;
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "ProBook 440";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.63" .
+_:node1iav78l91x81 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "2.5" .
+_:node1iav78l91x82 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#81> Lap_ont:has_ _:node1iav78l91x82;
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "IdeaPad 320-15AST";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","128GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2";
+Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#82> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire 3";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x83 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#82> Lap_ont:has_ _:node1iav78l91x83 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#82> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#83> Lap_ont:has_ "128GB SSD +  1TB HDD";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 7577";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.65" .
+_:node1iav78l91x84 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#83> Lap_ont:has_ _:node1iav78l91x84 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#83> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#84> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Pavilion 15-CK000nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.83" .
+_:node1iav78l91x85 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#84> Lap_ont:has_ _:node1iav78l91x85 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#84> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#85> Lap_ont:names_ "250 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_ "8";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.96" .
+_:node1iav78l91x86 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#85> Lap_ont:has_ _:node1iav78l91x86 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#85> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#86> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_ "16";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:names_ "FX503VM-E4007T";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:has_ "128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x87 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#86> Lap_ont:has_ _:node1iav78l91x87 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#86> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#87> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "XPS 13";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.21" .
+_:node1iav78l91x88 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#87> Lap_ont:has_ _:node1iav78l91x88 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#87> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#88> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "FX550IK-DM018T";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q29652955","8","1TB HDD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.45" .
+_:node1iav78l91x89 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#88> Lap_ont:has_ _:node1iav78l91x89 .
+<https://www.wikidata.org/entity/Q13055354> Lap_ont:defined_by_ "3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#88> Lap_ont:has_ <https://www.wikidata.org/entity/Q13055354> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#89> Lap_ont:has_ "https://www.wikidata.org/entity/Q825762";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire 5";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","1TB HDD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x90 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#89> Lap_ont:has_ _:node1iav78l91x90 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#89> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#90> Lap_ont:has_ "https://www.wikidata.org/entity/Q98614745";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Probook 430";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "16","512GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.49" .
+_:node1iav78l91x91 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#90> Lap_ont:has_ _:node1iav78l91x91 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#90> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#91> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 7577";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.65" .
+_:node1iav78l91x92 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#91> Lap_ont:has_ _:node1iav78l91x92 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#91> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#92> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "Zenbook UX430UA";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.25" .
+_:node1iav78l91x93 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#92> Lap_ont:has_ _:node1iav78l91x93 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#92> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#93> Lap_ont:names_ "Spin 5";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.5" .
+_:node1iav78l91x94 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#93> Lap_ont:has_ _:node1iav78l91x94 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#93> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#94> Lap_ont:weighs_ "2.2";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q295089","8";
+Lap_ont:names_ "Inspiron 3567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "1TB HDD" .
+_:node1iav78l91x95 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#94> Lap_ont:has_ _:node1iav78l91x95 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#94> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#95> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x96 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#95> Lap_ont:has_ _:node1iav78l91x96 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#95> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#96> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "X541UV-DM1439T";
+Lap_ont:has_ "6","256GB SSD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2" .
+_:node1iav78l91x97 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#96> Lap_ont:has_ _:node1iav78l91x97 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.4" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#96> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#97> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Omen 15-ce007nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "12","128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.62" .
+_:node1iav78l91x98 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#97> Lap_ont:has_ _:node1iav78l91x98 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#97> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#98> Lap_ont:has_ "256GB SSD";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "15-bs017nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.91" .
+_:node1iav78l91x99 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#98> Lap_ont:has_ _:node1iav78l91x99 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#98> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#99> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "15-bw000nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x100 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#99> Lap_ont:has_ _:node1iav78l91x100 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "1.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#99> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#100> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","1TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+Lap_ont:weighs_ "2.2";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3576" .
+_:node1iav78l91x101 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#100> Lap_ont:has_ _:node1iav78l91x101 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#100> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#101> Lap_ont:names_ "Envy 13-ad009n";
+Lap_ont:weighs_ "1.38";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q825762";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978" .
+_:node1iav78l91x102 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#101> Lap_ont:has_ _:node1iav78l91x102 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#101> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#102> Lap_ont:has_ "https://www.wikidata.org/entity/Q98611752";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q2283";
+Lap_ont:names_ "Surface Laptop";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_S_";
+Lap_ont:weighs_ "1.252" .
+_:node1iav78l91x103 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.5","2256x1504" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#102> Lap_ont:has_ _:node1iav78l91x103 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#102> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#103> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Pavilion 14-BK001nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "6","256GB SSD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.58" .
+_:node1iav78l91x104 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#103> Lap_ont:has_ _:node1iav78l91x104 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#103> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#104> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "Ideapad 310-15ISK";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.85" .
+_:node1iav78l91x105 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#104> Lap_ont:has_ _:node1iav78l91x105 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#104> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#105> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "UX430UQ-GV209R";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.3" .
+_:node1iav78l91x106 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#105> Lap_ont:has_ _:node1iav78l91x106 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#105> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#106> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q502935";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q24033460";
+Lap_ont:names_ "GP62M 7REX";
+Lap_ont:has_ "256GB SSD +  1TB HDD","16";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x107 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#106> Lap_ont:has_ _:node1iav78l91x107 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#106> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+_:node1iav78l91x108 Lap_ont:with_size_ "1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#107> Lap_ont:has_ _:node1iav78l91x108;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "Thinkpad T470";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962" .
+_:node1iav78l91x108 Lap_ont:with_size_ "14" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#107> Lap_ont:has_ "8" .
+_:node1iav78l91x108 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#107> Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.58";
+Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q98611752";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#108> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "VivoBook S15";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "16","256GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.5" .
+_:node1iav78l91x109 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#108> Lap_ont:has_ _:node1iav78l91x109 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#108> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#109> Lap_ont:has_ "https://www.wikidata.org/entity/Q98611892","256GB SSD","8";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "XPS 13";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.23" .
+_:node1iav78l91x110 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","3200x1800" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#109> Lap_ont:has_ _:node1iav78l91x110 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.4" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#109> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#110> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "ThinkPad Yoga";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.37" .
+_:node1iav78l91x111 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#110> Lap_ont:has_ _:node1iav78l91x111 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#110> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#111> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Probook 440";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.63" .
+_:node1iav78l91x112 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#111> Lap_ont:has_ _:node1iav78l91x112 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#111> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#112> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "XPS 13";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745",_:node1iav78l91x113;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.21" .
+_:node1iav78l91x113 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#112> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#113> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Spectre x360";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.26" .
+_:node1iav78l91x114 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#113> Lap_ont:has_ _:node1iav78l91x114 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#113> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#114> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Probook 440";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","512GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.63" .
+_:node1iav78l91x115 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#114> Lap_ont:has_ _:node1iav78l91x115 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#114> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#115> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 7570";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.16" .
+_:node1iav78l91x116 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#115> Lap_ont:has_ _:node1iav78l91x116 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#115> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#116> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "X705UV-BX074T";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2" .
+_:node1iav78l91x117 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#116> Lap_ont:has_ _:node1iav78l91x117 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#116> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#117> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "VivoBook S15";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.7" .
+_:node1iav78l91x118 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#117> Lap_ont:has_ _:node1iav78l91x118 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#117> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#118> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Spin 3";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "6","1TB HDD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x119 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#118> Lap_ont:has_ _:node1iav78l91x119 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.4" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#118> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#119> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q502935";
+Lap_ont:names_ "GS63VR 7RG";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","256GB SSD +  2TB HDD","https://www.wikidata.org/entity/Q61782186";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.8" .
+_:node1iav78l91x120 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#119> Lap_ont:has_ _:node1iav78l91x120 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#119> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#120> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:names_ "IdeaPad 320-15IKBN";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x121 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#120> Lap_ont:has_ _:node1iav78l91x121 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#120> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#121> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Probook 470";
+Lap_ont:has_ "16","512GB SSD";
+Lap_ont:weighs_ "2.5";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962" .
+_:node1iav78l91x122 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#121> Lap_ont:has_ _:node1iav78l91x122 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#121> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#122> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire 3";
+Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:weighs_ "2.1";
+Lap_ont:has_ "4";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_" .
+_:node1iav78l91x123 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#122> Lap_ont:has_ _:node1iav78l91x123 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#122> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#123> Lap_ont:weighs_ "1.86";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "250 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "500GB HDD","4","https://www.wikidata.org/entity/Q98617382" .
+_:node1iav78l91x124 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#123> Lap_ont:has_ _:node1iav78l91x124 .
+<https://www.wikidata.org/entity/Q1665596> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#123> Lap_ont:has_ <https://www.wikidata.org/entity/Q1665596> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#124> Lap_ont:has_ "https://www.wikidata.org/entity/Q98614745";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Probook 440";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","1TB HDD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.63" .
+_:node1iav78l91x125 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#124> Lap_ont:has_ _:node1iav78l91x125 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#124> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#125> Lap_ont:has_ "64GB SSD";
+Lap_ont:names_ "E402WA-GA007T";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:has_ "4";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_S_";
+Lap_ont:weighs_ "1.65" .
+_:node1iav78l91x126 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#125> Lap_ont:has_ _:node1iav78l91x126 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "1.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#125> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#126> Lap_ont:has_ "16";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5770";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "256GB SSD +  2TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.8" .
+_:node1iav78l91x127 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#126> Lap_ont:has_ _:node1iav78l91x127 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#126> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#127> Lap_ont:has_ _:node1iav78l91x128;
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "ProBook 470";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.5" .
+_:node1iav78l91x128 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#127> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+_:node1iav78l91x129 Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#128> Lap_ont:has_ _:node1iav78l91x129 .
+_:node1iav78l91x129 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#128> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","1TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.36" .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#128> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#129> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x130 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#129> Lap_ont:has_ _:node1iav78l91x130 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#129> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#130> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Swift 3";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.6" .
+_:node1iav78l91x131 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#130> Lap_ont:has_ _:node1iav78l91x131 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#130> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#131> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire A515-51G-37JS";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x132 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#131> Lap_ont:has_ _:node1iav78l91x132 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#131> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#132> Lap_ont:names_ "15-BS078nr";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q98611752","1TB HDD","8";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.05" .
+_:node1iav78l91x133 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#132> Lap_ont:has_ _:node1iav78l91x133 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#132> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#133> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Probook 440";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.63" .
+_:node1iav78l91x134 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#133> Lap_ont:has_ _:node1iav78l91x134 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#133> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#134> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "V110-15IAP";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "1.9" .
+_:node1iav78l91x135 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#134> Lap_ont:has_ _:node1iav78l91x135 .
+<https://www.wikidata.org/entity/Q1665596> Lap_ont:defined_by_ "1.1" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#134> Lap_ont:has_ <https://www.wikidata.org/entity/Q1665596> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#135> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "FX753VD-GC086T";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "8","128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "3" .
+_:node1iav78l91x136 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#135> Lap_ont:has_ _:node1iav78l91x136 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#135> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#136> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "IdeaPad 320-15IKBN";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.2" .
+_:node1iav78l91x137 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#136> Lap_ont:has_ _:node1iav78l91x137 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#136> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#137> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Envy 13-AD007nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.32" .
+_:node1iav78l91x138 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#137> Lap_ont:has_ _:node1iav78l91x138 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#137> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#138> Lap_ont:has_ "https://www.wikidata.org/entity/Q825762","1TB HDD","4";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:names_ "Aspire 5";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "3" .
+_:node1iav78l91x139 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#138> Lap_ont:has_ _:node1iav78l91x139 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#138> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#139> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "ThinkPad E480";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q29652955";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.75" .
+_:node1iav78l91x140 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#139> Lap_ont:has_ _:node1iav78l91x140 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#139> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#140> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "Legion Y520-15IKBN";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.4" .
+_:node1iav78l91x141 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#140> Lap_ont:has_ _:node1iav78l91x141 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#140> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#141> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q49125";
+Lap_ont:names_ "Satellite Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x142 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#141> Lap_ont:has_ _:node1iav78l91x142 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#141> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#142> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "255 G6";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.86" .
+_:node1iav78l91x143 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#142> Lap_ont:has_ _:node1iav78l91x143 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#142> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#143> Lap_ont:weighs_ "1.25";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "ZenBook UX430UA" .
+_:node1iav78l91x144 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#143> Lap_ont:has_ _:node1iav78l91x144 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#143> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#144> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "EliteBook Folio";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","512GB SSD","https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "0.97" .
+_:node1iav78l91x145 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "12.5","3840x2160" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#144> Lap_ont:has_ _:node1iav78l91x145 .
+<https://www.wikidata.org/entity/Q19509695> Lap_ont:defined_by_ "1.2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#144> Lap_ont:has_ <https://www.wikidata.org/entity/Q19509695> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#145> Lap_ont:has_ "4";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q1665604";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:has_ "1TB HDD";
+Lap_ont:names_ "X541NA";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2" .
+_:node1iav78l91x146 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#145> Lap_ont:has_ _:node1iav78l91x146 .
+<https://www.wikidata.org/entity/Q1665596> Lap_ont:defined_by_ "1.1" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#145> Lap_ont:has_ <https://www.wikidata.org/entity/Q1665596> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#146> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q502935";
+Lap_ont:names_ "GE72MVR 7RG";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","256GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q61782186";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.9" .
+_:node1iav78l91x147 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#146> Lap_ont:has_ _:node1iav78l91x147 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#146> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#147> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire A315-51";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD","https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x148 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#147> Lap_ont:has_ _:node1iav78l91x148 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#147> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#148> Lap_ont:has_ "512GB SSD";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5577";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.56" .
+_:node1iav78l91x149 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#148> Lap_ont:has_ _:node1iav78l91x149 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#148> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#149> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 7567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "8","1.0TB Hybrid","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.62" .
+_:node1iav78l91x150 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#149> Lap_ont:has_ _:node1iav78l91x150 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#149> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#150> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "V110-15IKB";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","128GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.9" .
+_:node1iav78l91x151 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#150> Lap_ont:has_ _:node1iav78l91x151 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#150> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#151> Lap_ont:has_ "256GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_" .
+_:node1iav78l91x152 Lap_ont:with_size_ "1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#151> Lap_ont:has_ _:node1iav78l91x152;
+Lap_ont:weighs_ "2.8" .
+_:node1iav78l91x152 Lap_ont:with_size_ "17.3";
+a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#151> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q502935";
+Lap_ont:names_ "GE73VR 7RE";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16" .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#151> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#152> Lap_ont:has_ "https://www.wikidata.org/entity/Q98611752","256GB SSD","4";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:names_ "EliteBook 840";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.48" .
+_:node1iav78l91x153 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#152> Lap_ont:has_ _:node1iav78l91x153 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#152> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#153> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "15-BS103nv";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "6","256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.91" .
+_:node1iav78l91x154 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#153> Lap_ont:has_ _:node1iav78l91x154 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#153> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#154> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "Yoga 520-14IKB";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.74" .
+_:node1iav78l91x155 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#154> Lap_ont:has_ _:node1iav78l91x155 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.4" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#154> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#155> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "ZenBook Flip";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:weighs_ "1.1" .
+_:node1iav78l91x156 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#155> Lap_ont:has_ _:node1iav78l91x156 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#155> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#156> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:weighs_ "1.56";
+Lap_ont:has_ "8" .
+_:node1iav78l91x157 Lap_ont:with_size_ "15.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#156> Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+a <https://www.wikidata.org/wiki/Q3962> .
+_:node1iav78l91x157 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#156> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5579" .
+_:node1iav78l91x157 Lap_ont:with_size_ "1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#156> Lap_ont:has_ _:node1iav78l91x157 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#156> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+_:node1iav78l91x158 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#157> Lap_ont:weighs_ "2.1";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q49125";
+Lap_ont:names_ "Satellite Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD",_:node1iav78l91x158 .
+_:node1iav78l91x158 Lap_ont:with_size_ "1366x768","15.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#157> Lap_ont:has_ "https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_" .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#157> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#158> Lap_ont:has_ "1TB HDD","https://www.wikidata.org/entity/Q295089" .
+_:node1iav78l91x159 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#158> Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.03";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q152864";
+Lap_ont:names_ "X555BP-XX180T";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4" .
+_:node1iav78l91x159 Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#158> Lap_ont:has_ _:node1iav78l91x159 .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#158> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#159> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire A517-51G";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","256GB SSD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "3" .
+_:node1iav78l91x160 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#159> Lap_ont:has_ _:node1iav78l91x160 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#159> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#160> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3576";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.13" .
+_:node1iav78l91x161 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#160> Lap_ont:has_ _:node1iav78l91x161 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#160> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#161> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "Legion Y520-15IKBN";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","256GB SSD","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.5" .
+_:node1iav78l91x162 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#161> Lap_ont:has_ _:node1iav78l91x162 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#161> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#162> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire A315-31";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_ "https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x163 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#162> Lap_ont:has_ _:node1iav78l91x163 .
+<https://www.wikidata.org/entity/Q1665596> Lap_ont:defined_by_ "1.1" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#162> Lap_ont:has_ <https://www.wikidata.org/entity/Q1665596> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#163> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q502935";
+Lap_ont:names_ "GE63VR 7RE";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","256GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.4" .
+_:node1iav78l91x164 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#163> Lap_ont:has_ _:node1iav78l91x164 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#163> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+_:node1iav78l91x165 Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#164> Lap_ont:has_ _:node1iav78l91x165;
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire 3";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","1TB HDD" .
+_:node1iav78l91x165 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#164> Lap_ont:has_ "https://www.wikidata.org/entity/Q1665604";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+<https://www.wikidata.org/entity/Q214314> Lap_ont:defined_by_ "1.1" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#164> Lap_ont:has_ <https://www.wikidata.org/entity/Q214314> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#165> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5577";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q825762","8","128GB SSD +  1TB HDD";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.56" .
+_:node1iav78l91x166 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#165> Lap_ont:has_ _:node1iav78l91x166 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#165> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#166> Lap_ont:weighs_ "3" .
+_:node1iav78l91x167 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#166> Lap_ont:has_ _:node1iav78l91x167 .
+_:node1iav78l91x167 Lap_ont:with_size_ "1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#166> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:names_ "Aspire A517-51G";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_" .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#166> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#167> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "ProBook 430";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.49" .
+_:node1iav78l91x168 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#167> Lap_ont:has_ _:node1iav78l91x168 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#167> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#168> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q160120";
+Lap_ont:names_ "MateBook X";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.05" .
+_:node1iav78l91x169 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13","2160x1440" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#168> Lap_ont:has_ _:node1iav78l91x169 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#168> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#169> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "17-bs001nv";
+Lap_ont:has_ "6","2TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.71" .
+_:node1iav78l91x170 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#169> Lap_ont:has_ _:node1iav78l91x170 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#169> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+_:node1iav78l91x171 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#170> Lap_ont:has_ _:node1iav78l91x171 .
+_:node1iav78l91x171 Lap_ont:with_size_ "1366x768","15.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#170> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "IdeaPad 320-15AST";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.2" .
+<https://www.wikidata.org/entity/Q12047069> Lap_ont:defined_by_ "2.9" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#170> Lap_ont:has_ <https://www.wikidata.org/entity/Q12047069> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#171> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q49125";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "Satellite Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","500GB HDD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2" .
+_:node1iav78l91x172 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#171> Lap_ont:has_ _:node1iav78l91x172 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.4" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#171> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#172> Lap_ont:weighs_ "2.5";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "ProBook 470";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_ "https://www.wikidata.org/entity/Q16927918";
+a <https://www.wikidata.org/wiki/Q3962> .
+_:node1iav78l91x173 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#172> Lap_ont:has_ _:node1iav78l91x173 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#172> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2.4" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#173> Lap_ont:weighs_ "2.3";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:has_ "8" .
+_:node1iav78l91x174 Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#173> Lap_ont:has_ _:node1iav78l91x174,"1TB HDD","https://www.wikidata.org/entity/Q98611752";
+a <https://www.wikidata.org/wiki/Q3962> .
+_:node1iav78l91x174 a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#173> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 3567";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#174> Lap_ont:names_ "Aspire A315-51";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "4","128GB SSD","https://www.wikidata.org/entity/Q98617327";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.1" .
+_:node1iav78l91x175 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#174> Lap_ont:has_ _:node1iav78l91x175 .
+<https://www.wikidata.org/entity/Q1152382> Lap_ont:defined_by_ "2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#174> Lap_ont:has_ <https://www.wikidata.org/entity/Q1152382> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#175> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "GT80S 6QF-074US";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q502935";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "32","512GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "4.4" .
+_:node1iav78l91x176 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "18.4","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#175> Lap_ont:has_ _:node1iav78l91x176 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.9" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#175> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#176> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "V310-15IKB";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.9" .
+_:node1iav78l91x177 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#176> Lap_ont:has_ _:node1iav78l91x177 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#176> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#177> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Spectre x360";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.29" .
+_:node1iav78l91x178 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","3840x2160" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#177> Lap_ont:has_ _:node1iav78l91x178 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#177> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#178> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5570";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "16","256GB SSD +  2TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Linux_";
+Lap_ont:weighs_ "2.02" .
+_:node1iav78l91x179 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#178> Lap_ont:has_ _:node1iav78l91x179 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#178> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#179> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "XPS 13";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","https://www.wikidata.org/entity/Q98614745","256GB SSD";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.23" .
+_:node1iav78l91x180 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#179> Lap_ont:has_ _:node1iav78l91x180 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#179> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#180> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+_:node1iav78l91x181 Lap_ont:with_size_ "3840x2160" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#180> Lap_ont:has_ _:node1iav78l91x181;
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "Yoga 920-13IKB";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "16","512GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.4" .
+_:node1iav78l91x181 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.9" .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#181> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q49125";
+Lap_ont:names_ "Satellite Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","128GB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2" .
+_:node1iav78l91x182 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1366x768" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#181> Lap_ont:has_ _:node1iav78l91x182 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#181> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#182> Lap_ont:has_ "8","https://www.wikidata.org/entity/Q825762","256GB SSD";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q1636958";
+Lap_ont:names_ "Mi Notebook";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "1.95" .
+_:node1iav78l91x183 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#182> Lap_ont:has_ _:node1iav78l91x183 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#182> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#183> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 7773";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "16","512GB SSD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.77" .
+_:node1iav78l91x184 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#183> Lap_ont:has_ _:node1iav78l91x184 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#183> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#184> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "16","512GB SSD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:weighs_ "2.06";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "XPS 15";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873" .
+_:node1iav78l91x185 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","3840x2160" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#184> Lap_ont:has_ _:node1iav78l91x185 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#184> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#185> Lap_ont:has_ "256GB SSD","https://www.wikidata.org/entity/Q825762";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:has_ "8";
+Lap_ont:names_ "Legion Y520-15IKBN";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.4" .
+_:node1iav78l91x186 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "15.6","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#185> Lap_ont:has_ _:node1iav78l91x186 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#185> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#186> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q481778";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "Swift 7";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q98609804";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.12" .
+_:node1iav78l91x187 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#186> Lap_ont:has_ _:node1iav78l91x187 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.2" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#186> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#187> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 5770";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","128GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q295089";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.8" .
+_:node1iav78l91x188 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#187> Lap_ont:has_ _:node1iav78l91x188 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#187> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#188> Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:names_ "Thinkpad Yoga";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:has_ "16","1TB SSD","https://www.wikidata.org/entity/Q98611752";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.42" .
+_:node1iav78l91x189 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "14","2560x1440" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#188> Lap_ont:has_ _:node1iav78l91x189 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.7" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#188> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#189> Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q1636958";
+Lap_ont:names_ "Mi Notebook";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q2477770";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q825762";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:weighs_ "1.3" .
+_:node1iav78l91x190 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#189> Lap_ont:has_ _:node1iav78l91x190 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "2.5" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#189> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+_:node1iav78l91x191 Lap_ont:with_size_ "1600x900" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#190> Lap_ont:has_ _:node1iav78l91x191;
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q14799";
+Lap_ont:names_ "IdeaPad 320-17IKBR";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/No_OS_";
+Lap_ont:weighs_ "2.8" .
+_:node1iav78l91x191 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#190> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#191> Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:names_ "Inspiron 5379";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q1978753";
+Lap_ont:has_ "8","1TB HDD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "1.62" .
+_:node1iav78l91x192 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#191> Lap_ont:has_ _:node1iav78l91x192 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#191> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#192> Lap_ont:names_ "ProBook 470";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:has_ "8","1TB HDD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "2.5" .
+_:node1iav78l91x193 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#192> Lap_ont:has_ _:node1iav78l91x193 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#192> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#193> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q367412";
+Lap_ont:names_ "Blade Pro";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "32","1TB SSD","https://www.wikidata.org/entity/Q24033460";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "3.49" .
+_:node1iav78l91x194 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","3840x2160" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#193> Lap_ont:has_ _:node1iav78l91x194 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.9" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#193> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#194> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "ProBook 430";
+Lap_ont:weighs_ "1.49";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","512GB SSD","https://www.wikidata.org/entity/Q98614745";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_" .
+_:node1iav78l91x195 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "13.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#194> Lap_ont:has_ _:node1iav78l91x195 .
+<https://www.wikidata.org/entity/Q1044821> Lap_ont:defined_by_ "1.6" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#194> Lap_ont:has_ <https://www.wikidata.org/entity/Q1044821> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#195> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Omen 17-W295";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","256GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q825762";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:weighs_ "3.35" .
+_:node1iav78l91x196 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#195> Lap_ont:has_ _:node1iav78l91x196 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#195> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#196> a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q80978";
+Lap_ont:names_ "Probook 470";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q3962";
+Lap_ont:has_ "8","256GB SSD","https://www.wikidata.org/entity/Q16927918";
+Lap_ont:weighs_ "2.5" .
+_:node1iav78l91x197 a <https://www.wikidata.org/wiki/Q5290>;
+Lap_ont:with_size_ "17.3","1920x1080" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#196> Lap_ont:has_ _:node1iav78l91x197 .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "1.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#196> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#197> Lap_ont:has_ _:node1iav78l91x198 .
+_:node1iav78l91x198 Lap_ont:with_size_ "3840x2160";
+a <https://www.wikidata.org/wiki/Q5290> .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#197> Lap_ont:weighs_ "2.65";
+Lap_ont:has_installed_ "http://w3id.org/FAIR-course-UT/2024-2025/3/ont/Windows_10_";
+a <https://www.wikidata.org/wiki/Q3962>;
+Lap_ont:produced_by_ "https://www.wikidata.org/entity/Q30873";
+Lap_ont:names_ "Inspiron 7577";
+Lap_ont:has_purpose_ "https://www.wikidata.org/entity/Q185270";
+Lap_ont:has_ "16","512GB SSD +  1TB HDD","https://www.wikidata.org/entity/Q24033460" .
+_:node1iav78l91x198 Lap_ont:with_size_ "15.6" .
+<https://www.wikidata.org/entity/Q16545046> Lap_ont:defined_by_ "2.8" .
+<https://w3id.org/FAIR-course-UT/2024-2025/3/data#197> Lap_ont:has_ <https://www.wikidata.org/entity/Q16545046> .

@@ -1,0 +1,63 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcite: <http://purl.org/spar/datacite/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix language: <http://id.loc.gov/vocabulary/iso639-1/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sio: <http://semanticscience.org/resource/>.
+@prefix wd: <https://www.wikidata.org/wiki/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix d: <http://localhost:8080/dataset/>.
+@prefix n0: <http://localhost:8080/dataset/acb04f78-19b9-419b-9e88-3ec329582f42#>.
+@prefix pro: <http://localhost:8080/profile/>.
+@prefix c: <http://localhost:8080/catalog/>.
+@prefix dur: <https://www.kaggle.com/datasets/durgeshrao9993/>.
+@prefix met: <http://localhost:8080/dataset/acb04f78-19b9-419b-9e88-3ec329582f42/metrics/>.
+@prefix dis: <http://localhost:8080/distribution/>.
+@prefix fdp: <https://w3id.org/fdp/fdp-o#>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+
+d:acb04f78-19b9-419b-9e88-3ec329582f42
+    a dcat:Dataset;
+    dct:accessRights n0:accessRights;
+    dct:conformsTo pro:2f08228e-1789-40f8-84cd-28e3288c3604;
+    dct:creator "Andrea Nappi", "Robert Grgac";
+    dct:description "FAIRification of laptop dataset from Kaggle";
+    dct:isPartOf c:d11acd2a-741a-4227-a2ec-572fd38a21b8;
+    dct:issued "2024-10-22"^^xsd:date;
+    dct:language language:en;
+    dct:license <http://purl.org/NET/rdflicense/cc-zero1.0>;
+    dct:source dur:laptop-specification-dataset;
+    dct:title "FAIRified laptop dataset";
+    sio:SIO_000628
+    met:445c0a70d1e214e545b261559e2842f4, met:5d27e854a9e78eb3f663331cd47cdc13;
+    rdfs:label "FAIRified laptop dataset";
+    dcat:distribution
+        dis:2b3c6a2c-fd9c-47b4-bf55-3f4050f13ff1,
+        dis:a37fb0a7-bc9b-41c6-a810-1d0d8a04175f;
+    dcat:landingPage
+        <https://github.com/ANDREAaNAPPI/FAIR-Laptop_dataset/blob/main/Main-laptop-dataset-FAIR.csv>;
+    dcat:version "1.0.0";
+    fdp:metadataIdentifier n0:identifier;
+    fdp:metadataIssued "2024-10-22T10:09:48.921075821Z"^^xsd:dateTime;
+    fdp:metadataModified "2024-10-22T10:17:10.497430066Z"^^xsd:dateTime.
+met:445c0a70d1e214e545b261559e2842f4
+    sio:SIO_000332 <https://www.ietf.org/rfc/rfc3986.txt>;
+    sio:SIO_000628 <https://www.ietf.org/rfc/rfc3986.txt>.
+met:5d27e854a9e78eb3f663331cd47cdc13
+sio:SIO_000332 wd:Q8777; sio:SIO_000628 wd:Q8777.
+n0:accessRights
+    a dct:RightsStatement;
+    dct:description "This resource has no access restriction".
+n0:identifier
+    a dcite:Identifier;
+    dct:identifier
+    "http://localhost:8080/dataset/acb04f78-19b9-419b-9e88-3ec329582f42".
+dis:
+    a ldp:DirectContainer;
+    dct:title "Distributions";
+    ldp:contains
+        dis:2b3c6a2c-fd9c-47b4-bf55-3f4050f13ff1,
+        dis:a37fb0a7-bc9b-41c6-a810-1d0d8a04175f;
+    ldp:hasMemberRelation dcat:distribution;
+    ldp:membershipResource d:acb04f78-19b9-419b-9e88-3ec329582f42.
+pro:2f08228e-1789-40f8-84cd-28e3288c3604 rdfs:label "Dataset Profile".

@@ -1,0 +1,56 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcite: <http://purl.org/spar/datacite/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix language: <http://id.loc.gov/vocabulary/iso639-1/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sio: <http://semanticscience.org/resource/>.
+@prefix wd: <https://www.wikidata.org/wiki/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix c: <http://localhost:8080/catalog/>.
+@prefix d11: <http://localhost:8080/catalog/d11acd2a-741a-4227-a2ec-572fd38a21b8#>.
+@prefix pro: <http://localhost:8080/profile/>.
+@prefix met: <http://localhost:8080/catalog/d11acd2a-741a-4227-a2ec-572fd38a21b8/metrics/>.
+@prefix d: <http://localhost:8080/dataset/>.
+@prefix fdp: <https://w3id.org/fdp/fdp-o#>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+
+c:d11acd2a-741a-4227-a2ec-572fd38a21b8
+    a dcat:Catalog, dcat:Resource;
+    dct:accessRights d11:accessRights;
+    dct:conformsTo pro:a0949e72-4466-4d53-8900-9436d1049a4b;
+    dct:description "Laptop dataset FAIRification";
+    dct:isPartOf <http://localhost:8080>;
+    dct:issued "2024-10-22T09:27:09.312823025Z"^^xsd:dateTime;
+    dct:language language:en;
+    dct:license <http://purl.org/NET/rdflicense/cc-zero1.0>;
+    dct:modified "2024-10-22T09:27:09.312823025Z"^^xsd:dateTime;
+    dct:publisher [ a foaf:Agent; foaf:name "Robert Grgac" ];
+    dct:title "Fair Project";
+    sio:SIO_000628
+    met:445c0a70d1e214e545b261559e2842f4, met:5d27e854a9e78eb3f663331cd47cdc13;
+    rdfs:label "Fair Project";
+    dcat:dataset d:acb04f78-19b9-419b-9e88-3ec329582f42;
+    dcat:version "1.0.0";
+    fdp:metadataIdentifier d11:identifier;
+    fdp:metadataIssued "2024-10-22T09:27:09.312823025Z"^^xsd:dateTime;
+    fdp:metadataModified "2024-10-22T10:17:10.570127566Z"^^xsd:dateTime.
+met:445c0a70d1e214e545b261559e2842f4
+    sio:SIO_000332 <https://www.ietf.org/rfc/rfc3986.txt>;
+    sio:SIO_000628 <https://www.ietf.org/rfc/rfc3986.txt>.
+met:5d27e854a9e78eb3f663331cd47cdc13
+sio:SIO_000332 wd:Q8777; sio:SIO_000628 wd:Q8777.
+d11:accessRights
+    a dct:RightsStatement;
+    dct:description "This resource has no access restriction".
+d11:identifier
+    a dcite:Identifier;
+    dct:identifier
+    "http://localhost:8080/catalog/d11acd2a-741a-4227-a2ec-572fd38a21b8".
+d:
+    a ldp:DirectContainer;
+    dct:title "Datasets";
+    ldp:contains d:acb04f78-19b9-419b-9e88-3ec329582f42;
+    ldp:hasMemberRelation dcat:dataset;
+    ldp:membershipResource c:d11acd2a-741a-4227-a2ec-572fd38a21b8.
+pro:a0949e72-4466-4d53-8900-9436d1049a4b rdfs:label "Catalog Profile".

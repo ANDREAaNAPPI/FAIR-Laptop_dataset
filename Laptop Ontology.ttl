@@ -1,0 +1,243 @@
+@prefix : <http://w3id.org/FAIR-course-UT/2024-2025/3/ont/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://w3id.org/FAIR-course-UT/2024-2025/3/ont/> .
+
+<http://w3id.org/FAIR-course-UT/2024-2025/3/ont> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#belongs_to_
+:belongs_to_ rdf:type owl:ObjectProperty ;
+             rdfs:subPropertyOf owl:topObjectProperty ;
+             rdfs:domain :Model ;
+             rdfs:range :Company ;
+             rdfs:label "belongs to"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#defined_by_
+:defined_by_ rdf:type owl:ObjectProperty ;
+             rdfs:subPropertyOf owl:topObjectProperty ;
+             rdfs:domain :CPU ;
+             rdfs:range :CPU_Speed ;
+             rdfs:label "defined by"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#has_
+:has_ rdf:type owl:ObjectProperty ;
+      rdfs:subPropertyOf owl:topObjectProperty ;
+      rdfs:domain :Laptop ;
+      rdfs:range :Components ;
+      rdfs:label "has"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#has_installed_
+:has_installed_ rdf:type owl:ObjectProperty ;
+                rdfs:subPropertyOf owl:topObjectProperty ;
+                rdfs:domain :Laptop ;
+                rdfs:range :Operative_system ;
+                rdfs:label "has installed"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#has_purpose_
+:has_purpose_ rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdfs:domain :Laptop ;
+              rdfs:range :Type ;
+              rdfs:label "has purpose"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#named_
+:named_ rdf:type owl:ObjectProperty ;
+        rdfs:subPropertyOf owl:topObjectProperty ;
+        rdfs:domain :Laptop ;
+        rdfs:range :Model ;
+        rdfs:label "named"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#names_
+:names_ rdf:type owl:ObjectProperty ;
+        rdfs:subPropertyOf owl:topObjectProperty ;
+        rdfs:domain :Model ;
+        rdfs:range :Laptop ;
+        rdfs:label "names"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#produced_by_
+:produced_by_ rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdfs:domain :Laptop ;
+              rdfs:range :Company ;
+              rdfs:label "produced by"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#weighs_
+:weighs_ rdf:type owl:ObjectProperty ;
+         rdfs:subPropertyOf owl:topObjectProperty ;
+         rdfs:domain :Laptop ;
+         rdfs:range :Weight ;
+         rdfs:label "weighs"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#with_size_
+:with_size_ rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf owl:topObjectProperty ;
+            rdfs:domain :Screen ;
+            rdfs:range :Screen_specifics ;
+            rdfs:label "with size"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#CPU_Speed
+:CPU_Speed rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Company
+:Company rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Components
+:Components rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Laptop
+:Laptop rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Model
+:Model rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Operative_system
+:Operative_system rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Resolution
+:Resolution rdf:type owl:Class ;
+            rdfs:subClassOf :Screen_specifics ;
+            owl:disjointWith :Size .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Screen_specifics
+:Screen_specifics rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Size
+:Size rdf:type owl:Class ;
+      rdfs:subClassOf :Screen_specifics .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Type
+:Type rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Weight
+:Weight rdf:type owl:Class .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#CPU
+:CPU rdf:type owl:Class ;
+     rdfs:subClassOf :Components ;
+     rdfs:comment "the key component of a computer system, which contains the circuitry necessary to interpret and execute program instructions" .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#GPU
+:GPU rdf:type owl:Class ;
+     rdfs:subClassOf :Components ;
+     rdfs:comment "processor used in computers and other devices that is designed to make them able to deal more quickly with graphics" .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#RAM
+:RAM rdf:type owl:Class ;
+     rdfs:subClassOf :Components ;
+     rdfs:comment "computer memory on which data can be both read and written and on which the location of data does not affect the speed of its retrieval" .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Screen
+:Screen rdf:type owl:Class ;
+        rdfs:subClassOf :Components ;
+        rdfs:comment "display of the output of the computer" .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Storage
+:Storage rdf:type owl:Class ;
+         rdfs:subClassOf :Components ;
+         rdfs:comment "electronic memory device" .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Linux_
+:Linux_ rdf:type owl:NamedIndividual ,
+                 :Operative_system ;
+        rdfs:comment "open-source operating system modelled on UNIX"@en ;
+        rdfs:label "Linux"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#No_OS_
+:No_OS_ rdf:type owl:NamedIndividual ,
+                 :Operative_system ;
+        rdfs:comment "The laptop comes with no pre-installed operative system"@en ;
+        rdfs:label "No OS"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Windows_10_
+:Windows_10_ rdf:type owl:NamedIndividual ,
+                      :Operative_system ;
+             rdfs:comment "Microsoft operating system"@en ;
+             rdfs:label "Windows 10"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Windows_10_S_
+:Windows_10_S_ rdf:type owl:NamedIndividual ,
+                        :Operative_system ;
+               rdfs:comment "Version of Windows 10 that's streamlined for security and performance, while providing a familiar Windows experience"@en ;
+               rdfs:label "Windows 10 S"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#macOS_
+:macOS_ rdf:type owl:NamedIndividual ,
+                 :Operative_system ;
+        rdfs:comment "Computer operating system (OS) for Apple desktops and laptops. It is a proprietary graphical OS that powers every Mac"@en ;
+        rdfs:label "Mac OS"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#Android_
+:Android_ rdf:type owl:NamedIndividual ,
+                 :Operative_system ;
+        rdfs:comment "Android OS"@en ;
+        rdfs:label "Android"@en .
+
+
+###  http://w3id.org/FAIR-course-UT/2024-2025/3/ont#macOS_X_
+:macOS_X_ rdf:type owl:NamedIndividual ,
+                 :Operative_system ;
+        rdfs:comment "Apple's proprietary, Unix-based operating system"@en ;
+        rdfs:label "Mac OS X"@en .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :CPU
+                :GPU
+                :RAM
+                :Screen
+                :Storage
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

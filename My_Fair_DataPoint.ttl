@@ -1,0 +1,49 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcite: <http://purl.org/spar/datacite/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix language: <http://id.loc.gov/vocabulary/iso639-1/>.
+@prefix r3d: <http://www.re3data.org/schema/3-0#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix fdp: <https://w3id.org/fdp/fdp-o#>.
+@prefix loc: <http://localhost:8080#>.
+@prefix pro: <http://localhost:8080/profile/>.
+@prefix c: <http://localhost:8080/catalog/>.
+@prefix ldp: <http://www.w3.org/ns/ldp#>.
+
+<http://localhost:8080>
+    a dcat:DataService, dcat:Resource, fdp:FAIRDataPoint, fdp:MetadataService;
+    dct:accessRights loc:accessRights;
+    dct:conformsTo pro:77aaad6a-0136-4c6e-88b9-07ffccd0ee4c;
+    dct:description
+        "Duis pellentesque, nunc a fringilla varius, magna dui porta quam, nec ultricies augue turpis sed velit. Donec id consectetur ligula. Suspendisse pharetra egestas massa, vel varius leo viverra at. Donec scelerisque id ipsum id semper. Maecenas facilisis augue vel justo molestie aliquet. Maecenas sed mattis lacus, sed viverra risus. Donec iaculis quis lacus vitae scelerisque. Nullam fermentum lectus nisi, id vulputate nisi congue nec. Morbi fermentum justo at justo bibendum, at tempus ipsum tempor. Donec facilisis nibh sed lectus blandit venenatis. Cras ullamcorper, justo vitae feugiat commodo, orci metus suscipit purus, quis sagittis turpis ante eget ex. Pellentesque malesuada a metus eu pulvinar. Morbi rutrum euismod eros at varius. Duis finibus dapibus ex, a hendrerit mauris efficitur at.";
+    dct:language language:en;
+    dct:license <http://purl.org/NET/rdflicense/cc-zero1.0>;
+    dct:publisher loc:publisher;
+    dct:title "My FAIR Data Point";
+    r3d:repositoryIdentifier loc:identifier;
+    rdfs:label "My FAIR Data Point";
+    dcat:endpointURL <http://localhost:8080>;
+    dcat:version "1.0";
+    fdp:fdpSoftwareVersion "FDP:v1.17.2~34fb697";
+    fdp:metadataCatalog c:d11acd2a-741a-4227-a2ec-572fd38a21b8;
+    fdp:metadataIdentifier loc:identifier;
+    fdp:metadataIssued
+        "2024-10-22T08:30:02.828778546Z"^^xsd:dateTime,
+        "2024-10-22T08:33:12.133143257Z"^^xsd:dateTime;
+    fdp:metadataModified "2024-10-22T10:17:10.664639214Z"^^xsd:dateTime.
+c:
+    a ldp:DirectContainer;
+    dct:title "Catalogs";
+    ldp:contains c:d11acd2a-741a-4227-a2ec-572fd38a21b8;
+    ldp:hasMemberRelation fdp:metadataCatalog;
+    ldp:membershipResource <http://localhost:8080>.
+pro:77aaad6a-0136-4c6e-88b9-07ffccd0ee4c rdfs:label "FAIR Data Point Profile".
+
+loc:accessRights
+    a dct:RightsStatement;
+    dct:description "This resource has no access restriction".
+loc:identifier a dcite:Identifier; dct:identifier "http://localhost:8080".
+
+loc:publisher a foaf:Agent; foaf:name "Default Publisher".
